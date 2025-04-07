@@ -2,6 +2,13 @@
 ## 2023
 1. Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion (T-Multimedia) [[Paper](https://ieeexplore.ieee.org/document/10349937)] [[Github](https://github.com/ltwu6/cross-pcc)]
 
+1.  Orthogonal Dictionary Guided Shape Completion Network for Point Cloud (AAAI) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27845)] [[Github](https://github.com/corecai163/ODGNet)]
+
+1. **AdaPoinTr**: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers [[Paper](https://ieeexplore.ieee.org/document/10232862)] [[Github](https://github.com/yuxumin/PoinTr)]
+
+1. Learning Geometric Transformation for Point Cloud Completion (IJCV) [[Paper](https://link.springer.com/article/10.1007/s11263-023-01820-y)] [[Github](https://github.com/aipixel/GTNet)]
+
+
 ## 2021
 1. **[OcCo]** Unsupervised Point Cloud Pre-training via Occlusion Completion, ICCV 2021 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.pdf)] [[Github](https://github.com/hansen7/OcCo)]
 
