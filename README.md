@@ -2,6 +2,8 @@
 ## 2023
 1. Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion (T-Multimedia) [[Paper](https://ieeexplore.ieee.org/document/10349937)] [[Github](https://github.com/ltwu6/cross-pcc)]
 
+## 2021
+1. Unsupervised Point Cloud Pre-training via Occlusion Completion, ICCV 2021 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.pdf)] [[Github](https://github.com/hansen7/OcCo)]
 ---
 # List of Point Cloud Upsampling Github Codes
 
