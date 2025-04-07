@@ -5,17 +5,17 @@
 ## 2021
 1. **[OcCo]** Unsupervised Point Cloud Pre-training via Occlusion Completion, ICCV 2021 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.pdf)] [[Github](https://github.com/hansen7/OcCo)]
 
-1. **[VRCNet]** Variational Relational Point Completion Network, CVPR2021, L. Pan et al. [[PDF]](https://arxiv.org/abs/2104.10154)[[Code]](https://github.com/paul007pl/VRCNet)
+1. **[VRCNet]** Variational Relational Point Completion Network, CVPR2021, L. Pan et al. [[Paper]](https://arxiv.org/abs/2104.10154)[[Code]](https://github.com/paul007pl/VRCNet)
 
-1. **[Point-Voxel Diffusion]** 3D Shape Generation and Completion through Point-Voxel Diffusion, ICCV 2021, L. Zhou et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_3D_Shape_Generation_and_Completion_Through_Point-Voxel_Diffusion_ICCV_2021_paper.pdf)[[Code]]
+1. **[Point-Voxel Diffusion]** 3D Shape Generation and Completion through Point-Voxel Diffusion, ICCV 2021, L. Zhou et al. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_3D_Shape_Generation_and_Completion_Through_Point-Voxel_Diffusion_ICCV_2021_paper.pdf)[[Code]]
 
-1. **[ME-PCN]** ME-PCN: Point Completion Conditioned on Mask Emptiness, ICCV 2021, B. Gong et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_ME-PCN_Point_Completion_Conditioned_on_Mask_Emptiness_ICCV_2021_paper.pdf)[[Code]]
+1. **[ME-PCN]** ME-PCN: Point Completion Conditioned on Mask Emptiness, ICCV 2021, B. Gong et al. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_ME-PCN_Point_Completion_Conditioned_on_Mask_Emptiness_ICCV_2021_paper.pdf)[[Code]]
 
-1. **[SnowflakeNet]** SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer, ICCV2021, P. Xiang et al. [[PDF]](https://arxiv.org/abs/2108.04444)[[Code]](https://github.com/AllenXiangX/SnowflakeNet)
+1. **[SnowflakeNet]** SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer, ICCV2021, P. Xiang et al. [[Paper]](https://arxiv.org/abs/2108.04444)[[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
-1. **[RFNet]** RFNet: Recurrent Forward Network for Dense Point Cloud Completion, ICCV 2021, T. Huang et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.pdf)[[Code]]
+1. **[RFNet]** RFNet: Recurrent Forward Network for Dense Point Cloud Completion, ICCV 2021, T. Huang et al. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.pdf)[[Code]]
 
-1. **[PoinTr]** PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers, ICCV 2021, X. Yu et al. [[PDF]](https://arxiv.org/abs/2108.08839)[[Code]](https://github.com/yuxumin/PoinTr)
+1. **[PoinTr]** PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers, ICCV 2021, X. Yu et al. [[Paper]](https://arxiv.org/abs/2108.08839)[[Code]](https://github.com/yuxumin/PoinTr)
 
 ---
 # List of Point Cloud Upsampling Github Codes
