@@ -1,3 +1,8 @@
+# List of Point Cloud Completion Github Codes
+## 2023
+1. Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion (T-Multimedia) [[Paper](https://ieeexplore.ieee.org/document/10349937)] [[Github](https://github.com/ltwu6/cross-pcc)]
+
+---
 # List of Point Cloud Upsampling Github Codes
 
 ## 2024
@@ -15,6 +20,7 @@
 1. Self-Supervised Arbitrary-Scale Implicit Point Clouds Upsampling (TPAMI) [[Paper](https://ieeexplore.ieee.org/document/10159515)] [[Github](https://github.com/xnowbzhao/sapcu)]
 
 1. **AGConv**: Adaptive Graph Convolution on 3D Point Clouds (TPAMI) [[Paper](https://ieeexplore.ieee.org/document/10024001)] [[Github](https://github.com/hrzhou2/AdaptConv-master)]
+
 
 ## 2022
 1. **SPU-Net**: Self-Supervised Point Cloud Upsampling by Coarse-to-Fine Reconstruction With Self-Projection Optimization (TIP) [[Paper](https://ieeexplore.ieee.org/document/9794769)] [[Github](https://github.com/liuxinhai/SPU-Net)]
