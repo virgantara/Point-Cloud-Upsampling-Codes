@@ -3,7 +3,9 @@
 ## 2024
 1. **iPUNet**: Iterative Cross Field Guided Point Cloud Upsampling (TVCG) [[Paper](https://ieeexplore.ieee.org/document/10288350)] [[Github](https://github.com/GSW-D/iPUNet)]
 
-1. **PU-Mask**: 3D Point Cloud Upsampling via an Implicit Virtual Mask (TCSVT) [[Paper](https://github.com/liuhaoyun/PU-Mask)] [[Github](https://github.com/liuhaoyun/PU-Mask)]
+1. **PU-Mask**: 3D Point Cloud Upsampling via an Implicit Virtual Mask (TCSVT) [[Paper](https://ieeexplore.ieee.org/document/10445295/)] [[Github](https://github.com/liuhaoyun/PU-Mask)]
+
+1. **PU-Ray**: Domain-Independent Point Cloud Upsampling via Ray Marching on Neural Implicit Surface (TITS) [[Paper](https://ieeexplore.ieee.org/document/10508258)] [[Github](https://github.com/sum1lim/PU-Ray)]
 
 ## 2023
 1. Density-Imbalance-Eased LiDAR Point Cloud Upsampling via Feature Consistency Learning (T-IV) [[Paper](https://ieeexplore.ieee.org/document/9743721)] [[Github](https://github.com/nycu-acm/Density-Imbalance-Eased)]
