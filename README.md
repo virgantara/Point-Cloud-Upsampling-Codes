@@ -8,6 +8,9 @@
 
 1. [**GTNet**] Learning Geometric Transformation for Point Cloud Completion (IJCV) [[Paper](https://link.springer.com/article/10.1007/s11263-023-01820-y)] [[Github](https://github.com/aipixel/GTNet)]
 
+1. [**PSCU**] Parametric Surface Constrained Upsampler Network for Point Cloud [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25097/24869)] [[Github](https://github.com/corecai163/pscu)]
+## 2022
+1. Snowflake Point Deconvolution for Point Cloud Completion and Generation With Skip-Transformer (TPAMI) [[Paper](https://ieeexplore.ieee.org/document/9928787)] [[Github](https://github.com/allenxiangx/snowflakenet)]
 
 ## 2021
 1. **[OcCo]** Unsupervised Point Cloud Pre-training via Occlusion Completion, ICCV 2021 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.pdf)] [[Github](https://github.com/hansen7/OcCo)]
