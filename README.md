@@ -6,7 +6,7 @@
 
 1. **AdaPoinTr**: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers [[Paper](https://ieeexplore.ieee.org/document/10232862)] [[Github](https://github.com/yuxumin/PoinTr)]
 
-1. Learning Geometric Transformation for Point Cloud Completion (IJCV) [[Paper](https://link.springer.com/article/10.1007/s11263-023-01820-y)] [[Github](https://github.com/aipixel/GTNet)]
+1. [**GTNet**] Learning Geometric Transformation for Point Cloud Completion (IJCV) [[Paper](https://link.springer.com/article/10.1007/s11263-023-01820-y)] [[Github](https://github.com/aipixel/GTNet)]
 
 
 ## 2021
